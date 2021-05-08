@@ -1,0 +1,32 @@
+{
+  "name": "taro-plugin-webpack-analyze",
+  "version": "0.1.0",
+  "description": "Taro Webpack 打包分析",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@tarojs/service": "^3.2.8"
+  },
+  "dependencies": {
+    "webpack-bundle-analyzer": "^4.4.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivan-94/taro-plugin-webpack-analyze.git"
+  },
+  "keywords": [
+    "taro",
+    "taro-plugin",
+    "webpack",
+    "webpack-analyze",
+    "weapp"
+  ],
+  "author": "ivan",
+  "bugs": {
+    "url": "https://github.com/ivan-94/taro-plugin-webpack-analyze/issues"
+  },
+  "homepage": "https://github.com/ivan-94/taro-plugin-webpack-analyze#readme"
+}
